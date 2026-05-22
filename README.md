@@ -17,7 +17,7 @@ to simulate a production-grade fraud detection platform used within modern finte
 
 ---
 
-# Problem We Are Solving
+# Problem 
 
 Digital payment platforms process millions of transactions daily across multiple countries and digital channels. As transaction volumes continue to grow, fraudsters increasingly exploit vulnerabilities using:
 - identity theft
